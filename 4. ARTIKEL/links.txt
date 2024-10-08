@@ -1,0 +1,18 @@
+
+Lovering, N. (2023, November 1). How to prevent getting and spreading tuberculosis. https://www.health.state.mn.us/diseases/tb/basics/factsheets/sputum.html
+
+Pilgrim, R., & Prabhakara, S. (2021, May 18). Tackling tuberculosis screening with AI. https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/
+
+World Health Organization. (2023b, November 7). Tuberculosis. https://www.who.int/news-room/fact-sheets/detail/tuberculosis
+
+Khan, M. A., Menouar, H., & Hamila, R. (2023). Revisiting crowd counting: State-of-the-art, trends, and future perspectives. Image and Vision Computing, 129, 104597. https://doi.org/10.1016/j.imavis.2022.104597 
+
+Okafor, C. N., Rewane, A., & Momodu, I. I. (2024). Bacillus Calmette Guerin. https://www.ncbi.nlm.nih.gov/books/NBK538185/
+
+Tobin, E. H., & Tristram, D. (2024). Tuberculosis. https://www.ncbi.nlm.nih.gov/books/NBK441916/ 
+
+Kerneler, K. (2020, June 30). Starter: Tuberculosis image dataset 19D4AE81-A. https://www.kaggle.com/code/kerneler/starter-tuberculosis-image-dataset-19d4ae81-a/notebook#Introduction 
+
+Control Applications for Biomedical Engineering Systems. (2020). In Robust control applications in biomedical engineering: Control of depth of hypnosis (pp. Chapter in book, if available). Elsevier Inc. https://doi.org/10.1016/B978-0-12-817461-6.00004-4
+
+Venayagamoorthy, G. K., Sharma, R. K., Gautam, P. K., & Ahmadi, A. (2016). Dynamic energy management system for a smart microgrid. IEEE Transactions on Neural Networks and Learning Systems, 27(8), 1643-1656. https://doi.org/10.1109/TNNLS.2016.2514358
